@@ -9,4 +9,6 @@ public class Component {
     public void setName(String s){name =s;}
     public int getComponentID(){return componentID;}
     public void setComponentID(int ID){componentID=ID;}
+
+    public ComplexTransform transform(){}
 }
