@@ -2,7 +2,7 @@ import java.io.File;
 
 public class Material{
 
-    private File imagefile;
+    private File imageFile;
     private double offsetX;
     private double offsetY;
     private double rot;
@@ -12,7 +12,7 @@ public class Material{
     public Material(){
         File imageFile;
         double offsetX;
-        double offsety;
+        double offsetY;
         double rot;
         double scaX;
         double scaY;
