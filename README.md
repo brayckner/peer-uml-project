@@ -22,15 +22,19 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 Bray Torres 
 - App.java 
 - VFX.java 
-- 
+- Mesh.java
 
 Nick Fulton
 - Material.java
+- Component.java
+- ComplexTransform.java
 
 Matt Alyward
 - Transform.Java
-- Mesh.java
 - Vertex.java
+- TransformEXT.Java
 
 Connor Richter
 - Scene.java
+- Timeline.Java
+- Scripts.java
