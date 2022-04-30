@@ -8,6 +8,7 @@ public class Material{
     private double rot;
     private double scaX;
     private double scaY;
+  
     public Material(){
         File imageFile;
         double offsetX;
@@ -17,5 +18,4 @@ public class Material{
         double scaY;
 
     }
-    
 }
