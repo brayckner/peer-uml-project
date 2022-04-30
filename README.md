@@ -23,6 +23,7 @@ Bray Torres
 - App.java 
 - VFX.java 
 - Mesh.java
+- XDObject.java
 
 Nick Fulton
 - Material.java
