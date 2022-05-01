@@ -35,7 +35,7 @@ Matt Alyward
 - Vertex.java
 - TransformEXT.Java
 
-Connor Richter
+Conner Richter
 - Scene.java
 - Timeline.Java
 - Scripts.java
