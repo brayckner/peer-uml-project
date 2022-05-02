@@ -1,4 +1,5 @@
-public class Scene implements XDObject {
+public class Scene 
+{
   int sceneID;
   String name;
   List<XDObject> objectList;
