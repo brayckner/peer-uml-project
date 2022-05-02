@@ -1,8 +1,10 @@
+import java.util.ArrayList;
+
 public class Scene 
 {
   int sceneID;
   String name;
-  List<XDObject> objectList;
+  ArrayList<XDObject> objectList;
   public int getID()
   {
    return sceneID;
@@ -19,7 +21,7 @@ public class Scene
   {
    name = s;
   }
-  public List<XDObject> objects()
+  public ArrayList<XDObject> objects()
   {
     return objectList;
   }

@@ -1,10 +1,14 @@
 public class ComplexTransform {
     private Transform transform;
-    private TransformEXT transformEXT;
+    private TransformExt transformEXT;
 
     public ComplexTransform(){
         Transform transform;
-        TransformEXT transformEXT;
+        TransformExt transformEXT;
+    }
+
+    public ComplexTransform(Transform transform, TransformExt transformEXT){
+        
     }
 
     

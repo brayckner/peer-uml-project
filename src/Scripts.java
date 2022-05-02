@@ -1,10 +1,13 @@
+import java.util.ArrayList;
+
 public class Scripts {
-    public List<File> scripts;
-    public File getScript(int index)
+    public ArrayList<Integer> scripts;
+
+    public int getScript(int index)
     {
-      
+      return 0;
     }
-    public void add(File f)
+    public void add(int f)
     {
         
     }
@@ -13,9 +16,11 @@ public class Scripts {
     {
         
     }
-    public List<String> translate(File f)
+    public ArrayList<String> translate(String f)
     {
- 
+        ArrayList<String> result = new ArrayList<String>();
+        result.add(f);
+        return result;
     }
     
 }

@@ -10,5 +10,8 @@ public class Component {
     public int getComponentID(){return componentID;}
     public void setComponentID(int ID){componentID=ID;}
 
-    public ComplexTransform transform(){}
+    // public ComplexTransform transform(){
+    //     ComplexTransform trans = new ComplexTransform();
+        
+    // }
 }
